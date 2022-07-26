@@ -30,7 +30,7 @@
                 Experiência profissional: sem experiência profissional relevante.
             </p>
             <p>
-                Linguagens em desenvolvimento: HTML, CSS e em breve javascript.
+                Linguagens em desenvolvimento: HTML, CSS e javascript.
             </p>
         </main>
     </body>
