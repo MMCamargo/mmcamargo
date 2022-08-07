@@ -1,38 +1,18 @@
-    <!DOCTYPE html>
-    <html lang="pt-BR">
+## Opa!
+<div align="center">
+  <a href="https://github.com/MMCamargo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmcamargo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmcamargo&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
 
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Apresentação</title>
-    </head>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
-    <body>
-        <header>
-            <h1>Apresentação</h1>
-            <h2>Matheus</h2>
-        </header>
-        <main>
-            <p>
-                Nome: Matheus Mariano de Camargo
-            </p>
-            <p>
-                Hobbies: praticar atividade física, ler ou assistir obras interessantes
-                e jogar diversos tipos de jogos.
-            </p>
-            <p>
-                Formação: participando do programa Starter Full Stack Web Developer
-                na Growdev. Ademais, também possuo iniciação científica e outras atividades
-                acadêmicas em áreas fora da tecnologia.
-            </p>
-            <p>
-                Experiência profissional: sem experiência profissional relevante.
-            </p>
-            <p>
-                Linguagens em desenvolvimento: HTML, CSS e javascript.
-            </p>
-        </main>
-    </body>
+##
 
-    </html>
+<div> 
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
