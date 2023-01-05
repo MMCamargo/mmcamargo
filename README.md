@@ -1,4 +1,4 @@
-## Opa!
+## Sobre mim
 
 Entusiasta de ciência e tecnologia, desenvolvedor web e sempre procurando aprender mais!
 
