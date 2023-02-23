@@ -7,7 +7,6 @@ As a developer, I started by acquiring basic skills like HTML, CSS, and JavaScri
 I continue to embrace all opportunities for new learning, whether through simple tutorials, documentation, mentors, or colleagues in the field. I am also always seeking to write the cleanest and most organized code possible, and have come to appreciate the different ways to achieve the same end result.
 
 In my free time, I enjoy practicing physical activities, playing games, and consuming content.
-
 ## Sobre mim <sub><sup>(pt-BR)</sup></sub>
 
 Entusiasta de ciência e tecnologia, desenvolvedor web e sempre procurando aprender mais!
@@ -18,24 +17,29 @@ Sigo me apegando a todas as oportunidades de novos aprendizados, seja por meio d
 
 Nas horas livres, gosto de praticar atividades físicas, jogar e consumir conteúdo.
 
-##
+ 
 
-<div align="center">
-  <a href="https://github.com/MMCamargo">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mmcamargo&show_icons=true&theme=dracula"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmcamargo&layout=compact&langs_count=7&theme=dracula"/>
+<div align="left">
+    <a href="https://github.com/MMCamargo">
+    <img margin='0' width="48%" src="https://github-readme-stats.vercel.app/api?username=mmcamargo&show_icons=true&theme=dracula"/>
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>
-
-##
-
-<div> 
-  <a href="https://www.linkedin.com/in/matheus-mariano-de-camargo-667488244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+	
+<br>
+	
+<div align="right" style="display: inline_block;"><br>
+	<a href="https://www.linkedin.com/in/mmcamargo" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left" height="30" width="120" />
+	</a>
+	<a href="https://www.instagram.com/mmcamargo.js" target="_blank">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="left" height="30" width="120" />
+	</a>
+    <img alt="html5-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img alt="css3-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img alt="javascript-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img alt="typescript-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img alt="react-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img alt="redux-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    <img alt="postgresql-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img alt="bootstrap-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img alt="mui-icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 </div>
