@@ -1,4 +1,14 @@
-## Sobre mim
+## About me <sub><sup>(en)</sup></sub>
+
+Science and technology enthusiast, web developer, and always looking to learn more!
+
+As a developer, I started by acquiring basic skills like HTML, CSS, and JavaScript/TypeScript. I then advanced to frameworks and libraries such as Bootstrap, React.js, Styled Components, Material UI, Redux Toolkit, Context, Formik, Yup, and other widely used tools in the field. I have also ventured into less common technologies like Svelte, learned basic notions of CSS preprocessors and postprocessors, object-oriented programming, and development and consumption of APIs in JSON. I have also developed skills to create and manipulate databases, both in SQL and ORMs.
+
+I continue to embrace all opportunities for new learning, whether through simple tutorials, documentation, mentors, or colleagues in the field. I am also always seeking to write the cleanest and most organized code possible, and have come to appreciate the different ways to achieve the same end result.
+
+In my free time, I enjoy practicing physical activities, playing games, and consuming content.
+
+## Sobre mim <sub><sup>(pt-BR)</sup></sub>
 
 Entusiasta de ciência e tecnologia, desenvolvedor web e sempre procurando aprender mais!
 
