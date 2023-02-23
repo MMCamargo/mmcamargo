@@ -2,7 +2,7 @@
 
 Entusiasta de ciência e tecnologia, desenvolvedor web e sempre procurando aprender mais!
 
-Como desenvolvedor, comecei adquirindo competências básicas como HTML, CSS e JavaScript/TypeScript. Segui avançando para frameworks e bibliotecas como Bootstrap, React.js, Styled Components, Material UI, Redux Toolkit, Context, Formik, Yup e outras ferramentas populares na área. Também me aventurei em tecnologias menos usuais como Svelte, tomei noções básicas de pré-processadores e pós-processadores de CSS, noções de POO e desenvolvimento e consumo de API's em JSON. 
+Como desenvolvedor, comecei adquirindo competências básicas como HTML, CSS e JavaScript/TypeScript. Segui avançando para frameworks e bibliotecas como Bootstrap, React.js, Styled Components, Material UI, Redux Toolkit, Context, Formik, Yup e outras ferramentas bastante utilizadas na área. Também me aventurei em tecnologias menos usuais como Svelte, tomei noções básicas de pré-processadores e pós-processadores de CSS, noções de POO e desenvolvimento e consumo de API's em JSON. Também desenvolvi habilidades para criar e manipular bancos de dados, tanto em SQL quanto em ORM's.
 
 Sigo me apegando a todas as oportunidades de novos aprendizados, seja por meio de simples tutoriais, documentações, mentores e colegas da área. Também estou sempre procurando escrever os códigos mais limpos e organizados tanto quanto possível, passando a apreciar as diferentes maneiras de se chegar em um mesmo fim.
 
