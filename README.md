@@ -20,7 +20,7 @@ Nas horas livres, gosto de praticar atividades físicas, jogar e consumir conte�
  
 
 <div align="center">
-    <a href="https://github.com/MMCamargo">
+    <a href="https://github.com/mmcamargo">
     <img margin='0' width="48%" src="https://github-readme-stats.vercel.app/api?username=mmcamargo&show_icons=true&theme=dracula"/>
 </div>
 	
